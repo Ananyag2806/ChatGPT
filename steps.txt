@@ -3,6 +3,8 @@
 3. npm install dotenv openai
 4. package.json-> "dev": "node script.js"
 5. package.json-> "type": "module"
+6. When you have maxed out your tokens, you get this error- 
+UnhandledPromiseRejectionWarning: Error: Request failed with status code 429
 
 api response-
 {
